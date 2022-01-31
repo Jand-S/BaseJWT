@@ -1,0 +1,13 @@
+package com.github.jand.online.novel.api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class OnlineNovelApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(OnlineNovelApiApplication.class, args);
+	}
+
+}
